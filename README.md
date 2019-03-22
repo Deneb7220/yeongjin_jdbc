@@ -2,3 +2,4 @@
 # yegngjin_springweb
 # yeongjin_spring
 # yeongjin_servlet
+# yeongjin_jdbc
