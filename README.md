@@ -3,3 +3,5 @@
 # yeongjin_spring
 # yeongjin_servlet
 # yeongjin_jdbc
+# yeongjin_jdbc
+# yeongjin_jdbc
